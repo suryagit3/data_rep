@@ -1,0 +1,107 @@
+[
+    {
+      "domain": ".fwn.atlassian.net",
+      "expiry": 1751974960,
+      "httpOnly": false,
+      "name": "ajs_anonymous_id",
+      "path": "/",
+      "sameSite": "Lax",
+      "secure": true,
+      "value": "%22ea78f22f-4866-4b32-aee4-07da004dc0c1%22"
+    },
+    {
+      "domain": ".fwn.atlassian.net",
+      "httpOnly": false,
+      "name": "__awc_tld_test__",
+      "path": "/",
+      "sameSite": "Lax",
+      "secure": false,
+      "value": "tld_test"
+    },
+    {
+      "domain": "fwn.atlassian.net",
+      "expiry": 1723030960,
+      "httpOnly": true,
+      "name": "tenant.session.token",
+      "path": "/",
+      "sameSite": "None",
+      "secure": true,
+      "value": "eyJraWQiOiJzZXNzaW9uLXNlcnZpY2UvcHJvZC0xNTkyODU4Mzk0IiwiYWxnIjoiUlMyNTYifQ.eyJhc3NvY2lhdGlvbnMiOltdLCJzdWIiOiI2NDFjNGJhM2YxYjUyOWRmYTk4ZGQ5ZGMiLCJlbWFpbERvbWFpbiI6ImZpcmV3b3JraHEuY29tIiwiaW1wZXJzb25hdGlvbiI6W10sImNyZWF0ZWQiOjE3MjA0Mzg5NTMsInJlZnJlc2hUaW1lb3V0IjoxNzIwNDM5NTYwLCJ2ZXJpZmllZCI6dHJ1ZSwiaXNzIjoic2Vzc2lvbi1zZXJ2aWNlIiwic2Vzc2lvbklkIjoiMTY5ZDU1NWEtMGEyNi00M2ZjLTgyNzEtY2VmZmZiMDkyYTZhIiwic3RlcFVwcyI6W10sIm9yZ0lkIjoiNWQ2Y2IwMDUtYzQ1OS0xNDAyLTY2OTgtYmFqNmQzODg2NWRjIiwiYXVkIjoiYXRsYXNzaWFuIiwibmJmIjoxNzIwNDM4OTYwLCJleHAiOjE3MjMwMzA5NjAsImlhdCI6MTcyMDQzODk2MCwiZW1haWwiOiJzdXJ5YS5tckBmaXJld29ya2hxLmNvbSIsImp0aSI6IjE2OWQ1NTVhLTBhMjYtNDNmYy04MjcxLWNlZmZmYjA5MmE2YSJ9.WLD4Yln-F4j4SEHeEeShL4TsvGs4dLpKhIOZXZ3y018A87Oi-467eAIkKuuy-1KQDxyaApA03jqInazRepLRgsI3L27D6AmIZc_6lvTikrd2mfLHR0FwkBIdzB5p5MJBCMHdeylSZXaydookagDd2svwaoKWrbgRDVuTnFLzHqwPuZXGTqMj8twTApac1xPvMKnBXeZw5veLGb7GmsdzB830DxWiADtYhnNF5Y3NILLE263owSZ81qECenlMXFEJKGfsVBBMCqQFSGWYimoQHqjWdRSYj4KXtTQxcZ9kHvTYivjsHXMQim6v4usAz_VuQDSB8BLkizKFn49mb9KGuQ"
+    },
+    {
+      "domain": "fwn.atlassian.net",
+      "httpOnly": true,
+      "name": "atlassian.account.xsrf.token",
+      "path": "/",
+      "sameSite": "Lax",
+      "secure": true,
+      "value": "b72d4182-d8bd-4e07-a899-710279cb1ea1"
+    },
+    {
+      "domain": "fwn.atlassian.net",
+      "httpOnly": true,
+      "name": "JSESSIONID",
+      "path": "/",
+      "sameSite": "Lax",
+      "secure": true,
+      "value": "D566895AA6587B4163F09F8D6D69A420"
+    },
+    {
+      "domain": "fwn.atlassian.net",
+      "expiry": 1720439560,
+      "httpOnly": false,
+      "name": "atl-bsc-consent-token",
+      "path": "/",
+      "sameSite": "Lax",
+      "secure": false,
+      "value": "002111100000"
+    },
+    {
+      "domain": "fwn.atlassian.net",
+      "httpOnly": false,
+      "name": "atlassian.xsrf.token",
+      "path": "/",
+      "sameSite": "None",
+      "secure": true,
+      "value": "496d09e9dc9017c2b076a6b667ed3e31196cda41_lin"
+    },
+    {
+      "domain": "fwn.atlassian.net",
+      "expiry": 1720439560,
+      "httpOnly": false,
+      "name": "atl-bsc-current-locale",
+      "path": "/",
+      "sameSite": "Lax",
+      "secure": false,
+      "value": "IN-TN"
+    },
+    {
+      "domain": ".atlassian.net",
+      "httpOnly": false,
+      "name": "__awc_tld_test__",
+      "path": "/",
+      "sameSite": "Lax",
+      "secure": false,
+      "value": "tld_test"
+    },
+    {
+      "domain": "fwn.atlassian.net",
+      "expiry": 1720439560,
+      "httpOnly": false,
+      "name": "atl-bsc-show-banner",
+      "path": "/",
+      "sameSite": "Lax",
+      "secure": false,
+      "value": "0"
+    },
+    {
+      "domain": ".atlassian.net",
+      "expiry": 1751974959,
+      "httpOnly": false,
+      "name": "ajs_anonymous_id",
+      "path": "/",
+      "sameSite": "Lax",
+      "secure": true,
+      "value": "%22ea78f22f-4866-4b32-aee4-07da004dc0c1%22"
+    }
+  ]
